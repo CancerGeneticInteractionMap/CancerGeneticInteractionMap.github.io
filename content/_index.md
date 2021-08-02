@@ -1,14 +1,7 @@
----
-title: "CytoData Society"
----
 
-![CytoData banner](/./main_files/cytodata-banner.png)
-The field of image-based profiling is still in its infancy, and its adoption has been slow, primarily due to the data analysis challenges posed, the large imaging experiments required, and the lack of ground-truth data sets where relationships among images are known. The CytoData Society aims to bring image-based profiling into the mainstream by organizing a striving community working on this technology.
+![CancerMap banner](/./main_files/CancerMap-logos_transparent_banner.png)
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia eros et pharetra egestas. Duis efficitur eget diam eget pellentesque. Sed mollis suscipit iaculis. Quisque nec posuere justo, a posuere arcu. Vivamus nibh purus, ultricies vel tortor eget, malesuada hendrerit ipsum. Integer et dolor felis. Donec at tincidunt odio. In hac habitasse platea dictumst. Mauris consequat enim nisl, sed fermentum nisi pellentesque a. Sed nec porta justo. Cras tincidunt imperdiet consequat.
 To stay connected and get the latest updates and news for the CytoData Society and CytoData Symposium please sign up here:
 
-{{< mail_list_subscription >}}
-
-The CytoData society (CytoDS) builds and maintains an active community around image-based profiling of biological phenotypes induced by genetic, chemical or other perturbations of biological systems.
-
-*CytoData Society is an unregistered society, meaning that the society does not have an official status in any country. Instead, we are an active community of researchers and developers. We consider everyone in our mailing list as a member of the society.*
+*Etiam auctor dolor massa, in lobortis ex placerat et. Mauris at odio vulputate, eleifend massa at, pharetra magna. Phasellus cursus nisi libero. Integer posuere magna id iaculis mattis. Nam sed ultrices magna. Cras luctus placerat nunc, placerat volutpat leo. Donec luctus blandit ex, ut vehicula massa venenatis ac. Phasellus pulvinar, nibh eu ultrices ullamcorper, magna ex maximus metus, a mollis sem magna et eros. Integer tristique varius sem nec ultrices. Mauris nisi risus, vulputate vitae ornare non, vulputate sit amet nulla. Maecenas velit lorem, luctus vulputate blandit sagittis, finibus non urna. Pellentesque tempor euismod maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.*

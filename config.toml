@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://cytodata.org/"
+baseURL = "http://cancermapproject.org/"
 languageCode = "en-us"
-title = "CytoData Society"
+title = "The CancerMap Project"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -15,27 +15,27 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Menu
 [menu]
   [[menu.main]]
-    identifier = "symposia"
-    name = "Symposia"
-    url = "/symposia"
+    identifier = "project"
+    name = "The Project"
+    url = "/project"
     weight = 10
 
   [[menu.main]]
-    identifier = "resources"
-    name = "Resources"
-    url = "/resources"
+    identifier = "dataset1"
+    name = "Dataset 1"
+    url = "/dataset1"
     weight = 20
 
   [[menu.main]]
-    identifier = "leadership"
-    name = "Leadership"
-    url = "/leadership"
+    identifier = "dataset2"
+    name = "Dataset 2"
+    url = "/dataset2"
     weight = 30
 
   [[menu.main]]
-    identifier = "society"
-    name = "Society"
-    url = "/society"
+    identifier = "outlook"
+    name = "Outlook"
+    url = "/outlook"
     weight = 40
 
   [[menu.main]]
@@ -48,9 +48,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 
     # Meta
-    description = "CytoData Society"
-    author = "Shantanu Singh & Tom Nijhof"
+    description = "Project Fund application for the CancerMap Project"
+    author = "Florian Heigwer et al."
     keywords = "biology, computer vision, machine learning, drug discovery, high-content imaging, microscopy, bioinformatics, computational biology"
-    
+
     # Back-to-top button name
     bttButton = ""
+    favicon = "main_files/favicon.ico"  
