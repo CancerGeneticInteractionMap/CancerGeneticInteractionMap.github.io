@@ -30,7 +30,7 @@ Here the text of page goes.
 
 An image can be added like this.
 These image are in static/main_files/
-![CytoData banner](/./main_files/cytodata-banner.png)
+![CGIM banner](/./main_files/CGIM-banner.png)
 ```
 
 ## Updating/adding list element
@@ -56,7 +56,7 @@ If you click it you will be brought to a page with the full text.
 example:
 ```
 ---
-title: "CytoData 2017 - by Institute of Cancer Research"
+title: "CGIM 2021 - by Institute of Cancer Research"
 date: 2017-06-28
 publishdate: 1970-01-01
 weight: -2017
