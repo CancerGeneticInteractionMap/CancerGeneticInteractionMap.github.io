@@ -1,4 +1,4 @@
-# CytoData Society Website
+# CGIM Website
 
 Welcome to the code of our website.
 In here is the instruction to update things on the website.
@@ -18,7 +18,7 @@ To update text go the `/content` and locate the text you want to alter.
 Every page has it own folder.
 
 `_index.md`: Main text of this page.
-The one `/content/_index.md` is for the main page, `/content/society/_index.md` is for the society page ect.
+The one `/content/_index.md` is for the main page, `/content/dataset1/_index.md` is for the society page ect.
 
 ```
 ---
@@ -37,7 +37,7 @@ These image are in static/main_files/
 
 A folder can have more markdowns.
 This means a list is created.
-`/content/symposiums/_index.md` will have the top text of the page.
+`/content/overview/_index.md` will have the top text of the page.
 Under need an element will be created for every other markdown file (`2016.md`, `2017.md`, `2018.md` ect.).
 These are the list elements.
 
@@ -68,7 +68,7 @@ Here the text of page goes.
 
 An image can be added like this.
 These image are in static/main_files/
-![CytoData banner](/./main_files/cytodata-banner.png)
+![CGIM banner](/./main_files/CGIM-banner.png)
 ```
 
 ## Create new page
@@ -81,15 +81,15 @@ Add you new page to here, use the weight to set its position and you are done.
 # Menu
 [menu]
   [[menu.main]]
-    identifier = "symposiums"
-    name = "Symposiums"
-    url = "/symposiums"
+    identifier = "overview"
+    name = "Overview"
+    url = "/overview"
     weight = 10
 
   [[menu.main]]
-    identifier = "resources"
-    name = "Resources"
-    url = "/resources"
+    identifier = "dataset1"
+    name = "Dataset 1"
+    url = "/dataset1"
     weight = 20
 ```
 
