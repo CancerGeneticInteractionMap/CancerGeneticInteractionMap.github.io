@@ -1,5 +1,5 @@
 
-![CancerMap banner](/./main_files/CancerMap-logos_transparent_banner.png)
+![CancerMap banner](/./main_files/CGIM-banner.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia eros et pharetra egestas. Duis efficitur eget diam eget pellentesque. Sed mollis suscipit iaculis. Quisque nec posuere justo, a posuere arcu. Vivamus nibh purus, ultricies vel tortor eget, malesuada hendrerit ipsum. Integer et dolor felis. Donec at tincidunt odio. In hac habitasse platea dictumst. Mauris consequat enim nisl, sed fermentum nisi pellentesque a. Sed nec porta justo. Cras tincidunt imperdiet consequat.
 To stay connected and get the latest updates and news for the CytoData Society and CytoData Symposium please sign up here:
