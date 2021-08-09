@@ -1,5 +1,5 @@
 ---
-title: "The Project"
+title: "Objectives"
 ---
 
-Quisque in lacinia mauris. Nunc laoreet commodo ex, eget fringilla purus. Integer vitae odio tellus. Proin egestas lectus non aliquet maximus. Quisque rhoncus lorem quis commodo aliquam. Nam sit amet dignissim mauris. Cras mollis eu magna a varius. Nam est magna, accumsan nec sem in, posuere fermentum libero. Donec ornare interdum elit, sed suscipit tellus condimentum eget. Morbi consequat risus lorem, id consequat lorem eleifend eu. Aenean mollis interdum ipsum ut blandit. Curabitur pellentesque orci mi, nec pretium est posuere eu. Nullam posuere iaculis felis eu cursus. Quisque pulvinar sapien vel libero consectetur, id ultricies eros porttitor. Duis eleifend urna vitae rhoncus cursus.
+Almost twenty years after sequencing the human genome, understanding the complex genetics of quantitative phenotypes remains a major challenge in biology and medicine. This is in large parts due to extensive redundancies, synergisms and context-dependent gene functions. Whilst recent efforts to map all genetic interactions in yeast produced unprecedented insights, similarly comprehensive efforts in human cells lack feasibility so far, mainly due to (i) the large size of the human genome and (ii) limitations inherent to genome perturbation methods. Exploiting new library generation technologies, which we developed to increase screening scalability, the CGIM aims to perform comprehensive SpCas9-based mapping of cell fitness-related genetic interactions in human cancer cells. 
